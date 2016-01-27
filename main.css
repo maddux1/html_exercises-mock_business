@@ -1,0 +1,27 @@
+li {
+  display: inline-block;
+}
+
+blockquote {
+  display: inline-block;
+  background-color: lightgray;
+  border-radius: 25px;
+  width: 500px;
+  text-align: center;
+}
+
+p.right {
+  text-align: right;
+}
+
+.socialMedia {
+  text-decoration: none;
+  font: 1.2em;
+  color: orange;
+}
+
+.pageFooter {
+  margin: 3em;
+  border-top: 2px solid black;
+  padding-top: 2em;
+}
